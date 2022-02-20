@@ -45,12 +45,13 @@ a {
 .main {
     -webkit-box-sizing: content-box;
     text-align: center;
+    box-sizing: border-box;
 }
 
 .website {
     padding-left: 335px;
     margin-top: 20px;
-    transition: 1s;
+    transition: 1 s;
 }
 
 .profile {
